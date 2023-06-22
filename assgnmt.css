@@ -1,0 +1,1111 @@
+.upper{
+
+    /* Rectangle 1 */
+
+    position: absolute;
+    width: 1440px;
+    height: 90px;
+    left: 0px;
+    top: 0px;
+    background: #F0F0F0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+     
+
+    /* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 90px;
+left: 0px;
+top: 0px;
+
+background: #F0F0F0;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+ 
+    
+
+}
+.sidebar{
+    /* Rectangle 1874 */
+
+position: absolute;
+left: 0%;
+right: 90.83%;
+top: 4.99%;
+bottom: 92.24%;
+
+background: #000000;
+border-radius: 0px 20px 0px 0px;
+
+
+
+
+
+}
+
+.one{
+    /* 1 */
+
+position: absolute;
+width: 12px;
+height: 54px;
+left: 70px;
+top: 173px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+letter-spacing: 0.02em;
+
+
+
+color: #0029FF;
+/* Rectangle 1881 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 68px;
+height: 68px;
+left: 32px;
+top: 166px;
+
+border: 1px solid #0029FF;
+border-radius: 20px;
+
+}
+
+
+
+/* Technical Project Management */
+.tpm{
+position: absolute;
+width: 466px;
+height: 42px;
+left: 187px;
+top: 108px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 42px;
+/* identical to box height */
+letter-spacing: 0.02em;
+
+color: #0029FF;
+
+}
+
+/* Rectangle 1873 */
+.rectangle1873{
+position: absolute;
+width: 1066px;
+height: 135px;
+left: 187px;
+top: 187px;
+
+background: #E9ECEF;
+border-radius: 5px;
+}
+
+/* Explore the world of management */
+.explore{
+position: absolute;
+width: 374.05px;
+height: 30px;
+left: 214px;
+top: 212px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+letter-spacing: 0.02em;
+
+color: #000000;
+}
+
+
+/* Rectangle 1869 */
+.rectangle1869{
+/* Rectangle 1869 */
+
+position: absolute;
+width: 480px;
+height: 580px;
+left: 214px;
+top: 397px;
+
+background: #FDFDFD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px -4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+}
+
+ /* Rectangle 1874 */
+.rectangle1874{
+position: absolute;
+width: 480px;
+height: 50px;
+left: 3px;
+top: 0px;
+
+background: #000000;
+border-radius: 15px 15px 0px 0px;
+
+}
+
+/* Technical Project Management */
+.tpm2{
+position: absolute;
+width: 247px;
+height: 22px;
+left: 100px;
+top:15px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+/* i */
+.i{
+position: absolute;
+width: 5px;
+height: 19px;
+left: 350px;
+top: 0px;
+background-color: white;
+border-radius: 50%;
+padding:5px;
+
+font-family: 'Poly';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+letter-spacing: 0.02em;
+
+color: white;
+}
+/* Ellipse 201 */
+.ellipse{
+position: absolute;
+width: 22px;
+height: 22px;
+left: 100px;
+top: 15px;
+
+background: #FFFFFF;
+}
+
+/* Description: Story of Alignment Scope of Agility Specific Accountable Staggering Approach */
+.desc{
+position: absolute;
+width: 453px;
+height: 83px;
+left: 20px;
+top: 100px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+letter-spacing: 0.02em;
+
+color: #000000;
+}
+
+/* image 13 */
+.image13{
+position: absolute;
+width: 480px;
+height: 291px;
+left:5px;
+top: 150px;
+
+background: url(image.png);
+}
+
+
+/* Rectangle 1870 */
+.rectangle1870{
+position: absolute;
+width: 480px;
+height: 580px;
+left: 746px;
+top: 397px;
+
+background: #FDFDFD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px -4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+}
+
+
+/* Rectangle 1875 */
+.rectangle1875{
+position: absolute;
+width: 480px;
+height: 50px;
+left: 746px;
+top: 397px;
+
+background: #000000;
+border-radius: 15px 15px 0px 0px;
+}
+
+/* Rectangle 2319 */
+.rectangle2319{
+position: absolute;
+width: 480px;
+height: 86px;
+left: 746px;
+top: 447px;
+
+background: #FDFDFD;
+box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.25);
+}
+
+/* Description: Watch the video and threadbuild, and jot out key threads while watching the video */
+.desc-watch{
+position: absolute;
+width: 458px;
+height: 83px;
+left: 756px;
+top: 466px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+}
+
+/* Rectangle 1237 */
+.rectangle1237{
+box-sizing: border-box;
+
+position: absolute;
+width: 478px;
+height: 40px;
+left: 747px;
+top: 534px;
+
+background: rgba(254, 255, 192, 0.2);
+border: 0.1px solid rgba(0, 0, 0, 0.4);
+}
+
+/* Vector */
+.vector2{
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 52.57%;
+right: 46.32%;
+top: 30.95%;
+bottom: 68.52%;
+
+background: #000000;
+border: 0.1px solid rgba(0, 0, 0, 0.4);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+}
+
+/* Thread A */
+.thread{
+box-sizing: border-box;
+
+position: absolute;
+width: 89.62px;
+height: 27px;
+left: 844.59px;
+top: calc(50% - 27px/2 - 349px);
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+
+color: #000000;
+
+border: 0.1px solid rgba(0, 0, 0, 0.4);
+}
+
+/* Threadbuild */
+.threadbuild{
+position: absolute;
+width: 97px;
+height: 22px;
+left: 938px;
+top: 411px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+/* Ellipse 201 */
+.ellipse201{
+/* Ellipse 201 */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 1176px;
+top: 411px;
+border-radius: 50px;
+background: #FFFFFF;
+
+}
+
+/* i */
+.i2{
+position: absolute;
+width: 5px;
+height: 19px;
+left: 1185px;
+top: 412px;
+
+font-family: 'Poly';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+letter-spacing: 0.02em;
+
+color: #000000;
+}
+/* Thread A */
+.threada{
+box-sizing: border-box;
+
+position: absolute;
+width: 89.62px;
+height: 27px;
+left: 844.59px;
+top: calc(50% - 27px/2 - 349px);
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+
+color: #000000;
+
+border: 0.1px solid rgba(0, 0, 0, 0.4);
+
+}
+
+/* Bg layer */
+.bg-layer{
+box-sizing: border-box;
+
+position: absolute;
+left: 773px;
+right: 32.5%;
+top: 604px;
+bottom: 62.94%;
+
+background: rgba(0, 0, 0, 0.05);
+opacity: 0.5;
+border: 0.1px solid #333333;
+box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+
+
+/* Bg layer */
+/* .brlayer{
+box-sizing: border-box;
+
+position: absolute;
+left: 773px;
+right: 0%;
+top: 680px;
+bottom: 0%;
+
+background: #FFFFFF;
+opacity: 0.5;
+border: 0.1px solid #333333;
+box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+} */
+/* Sub thread 1 */
+.sub-thread1{
+position: absolute;
+left: 779.92px;
+right: 40.84%;
+top: 608px;
+bottom: 65.43%;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+
+color: #000000;
+}
+
+/* Enter Text here */
+.text-here{
+position: absolute;
+left: 780px;
+right: 39.86%;
+top:636px;
+bottom: 63.88%;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+
+color: #6C757D;
+height:11px;
+width:85px;
+
+}
+.input{
+    height:70px;
+    width:195px;
+    top:620px;
+    left:1010px;
+    border:white;
+    background-color: white;
+
+}
+
+.outer-box{
+    width:190px;
+    height:100px;
+    background-color: #9faab4;
+    border-radius: 20px;
+    margin-top:300px;
+    margin-left:1000px;
+    /* border:2px solid black; */
+
+}
+
+/* Bg layer */
+.bg-layer2{
+box-sizing: border-box;
+
+position: absolute;
+left: 999px;
+right: 16.81%;
+top: 604px;
+bottom: 62.97%;
+
+background: rgba(0, 0, 0, 0.05);
+opacity: 0.5;
+border: 0.1px solid #333333;
+box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+
+/* Sub Interpretation 1 */
+.sub{
+position: absolute;
+left: 1010px;
+right: 22.3%;
+top: 617px;
+bottom: 65.43%;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+
+color: #000000;
+}
+
+.input2{
+    height:70px;
+    width:195px;
+    top:620px;
+    left:1010px;
+    border:white;
+    background-color: white;
+    /* border-radius: 0 0px 20px 20px; */
+}
+
+
+/* Vector */
+.vector3{
+position: absolute;
+left: 855px;
+right: 39.6%;
+top: 726px;
+bottom: 58.67%;
+
+background: #323232;
+}
+/* Vector */
+.vector4{
+position: absolute;
+left: 884px;
+right: 37.17%;
+top: 726px;
+bottom: 58.67%;
+
+background: #323232;
+}
+.vector5{
+    position: absolute;
+    left: 919px;
+    right: 37.17%;
+    top: 726px;
+    bottom: 58.67%;
+    
+    background: #323232;
+    }
+    .vector6{
+        position: absolute;
+        left: 954px;
+        right: 37.17%;
+        top: 726px;
+        bottom: 58.67%;
+        
+        background: #323232;
+        }
+
+/* Rectangle 4 */
+.rectangle4{
+
+/* Rectangle 4 */
+
+/* position: absolute; */
+left: 1003px;
+right: 24.31%;
+top: 800px;
+bottom: 58.34%;
+
+background: #FFFFFF;
+box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+height:30px;
+border-color: white;
+
+}
+
+.catlg-box{
+    height:30px;
+    width:30px;
+    background-color: white;
+    margin-top:290px;
+    margin-left: 80px;
+}
+
+.process-box{
+    height:30px;
+    width:20px;
+    background-color: white;
+    margin-top:-30px;
+    margin-left: 180px;
+
+}
+
+/* Rectangle 1870 */
+.rectangle1111{
+ height:50px;
+ width:130px;
+ background-color: blue;
+ margin-top:39px;
+ margin-left:-160px;
+ border-radius: 10px;
+}
+
+.subb{
+    font-size: 20px;
+    margin-top: 30px;
+    padding-top: 10px;
+    text-align:center;
+}
+
+.summery-thread{
+    background-color: rgb(209, 209, 209);
+    height:80px;
+    width: 400px;
+    margin-left: -150px;
+    margin-top: 20px;
+    border-radius: 20px;
+
+}
+.input-s-thread{
+    height: 60px;
+    width:393px;
+    margin-top: 40px;
+    border-radius: 20px;
+    border-color: white;
+}
+
+/* sidebar */
+
+#mySidenav a {
+    position: absolute;
+    left: -300px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 300px;
+    height:300px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+    top:100px;
+  }
+  
+
+#mySidenav a:hover {
+left: 0;
+}
+
+#about {
+top: 50px;
+background-color: black;
+color:white;
+padding:20px;
+}
+
+ 
+
+.h4{
+    background-color: black;
+    /* margin-top: 0px; */
+    padding-left: 20px;
+}
+li{
+    color:white;
+}
+
+
+
+ /* Vector */
+.vector7{
+position: absolute;
+left: 0%;
+right: 84.21%;
+top: 0%;
+bottom: 0%;
+
+background: #0029FF;
+}
+
+.logo{
+    margin-top: -30px;
+    margin-left: -45px;
+}
+
+/*  */
+.home-logo{
+position: absolute;
+left: 79.17%;
+right: 19.65%;
+top: 2.19%;
+bottom: 96.8%;
+
+font-family: 'Font Awesome 5 Free';
+font-style: normal;
+font-weight: 900;
+font-size: 15px;
+line-height: 17px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+.logo1{
+    margin-top: -110px;
+    margin-left: 500px;
+}
+
+
+.notice{
+    /* background-color: grey; */
+    height:300px;
+    width: 200px;
+    margin-top: 100px;
+    margin-left: 1270px;
+    color:white;
+    text-align: left;
+    border-radius: 20px;
+    border:2px solid black;
+}
+
+.notice1{
+    background-color: black;
+    color: white;
+    height:300px;
+    width:50px;
+    border-radius: 20px;
+    /* margin-left:100px; */
+}
+
+/* Rectangle 1871 */
+.rectangle1871{
+position: absolute;
+width: 480px;
+height: 580px;
+left: 213px;
+top: 1034px;
+
+background: #FDFDFD;
+box-shadow: 1px 1px 4px 2px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+}
+
+/* Rectangle 2321 */
+.rectangle2321{
+position: absolute;
+width: 480px;
+height: 50px;
+left: 213px;
+top: 1035px;
+
+background: #000000;
+border-radius: 15px 15px 0px 0px;
+}
+
+/* Structure your Pointers */
+.stru-point{
+position: absolute;
+width: 189px;
+height: 22px;
+left: 358px;
+top: 1049px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+}
+
+/* i */
+.i3{
+position: absolute;
+width: 5px;
+height: 19px;
+left: 652px;
+top: 1050px;
+
+font-family: 'Poly';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+letter-spacing: 0.02em;
+
+color: #000000;
+}
+
+/* Ellipse 201 */
+.ellipse3{
+position: absolute;
+width: 22px;
+height: 22px;
+left: 643px;
+top: 1049px;
+border-radius: 50px;
+background: #FFFFFF;
+}
+
+.i4{
+    color:black;
+    margin-top:-22px ;
+    margin-left: 8px;
+}
+
+/* Description : Write a 300 - 400 word article from your thread . Publish your understanding and showcase your understanding to the entire world */
+.description3{
+position: absolute;
+width: 433px;
+height: 83px;
+left: 240px;
+top: 1113px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+letter-spacing: 0.02em;
+
+color: #000000;
+}
+
+/* Rectangle 1878 */
+.rectangle1878{
+position: absolute;
+width: 479px;
+height: 399px;
+left: 214px;
+top: 1215px;
+
+background: #FDFDFD;
+border: 1px solid #D1CECE;
+border-radius: 0px 0px 15px 15px;
+}
+
+.input3{
+    /* margin-top: -300px; */
+    margin-left:20px;
+    font-size: 30px;
+    /* border: none; */
+}
+
+.inputt{
+    margin-left:0px;
+    width:300px;
+    /* height: 20px; */
+    border-color: white;
+}
+
+.content{
+    margin-left:20px;
+    /* margin-top: ; */
+    font-size: 30px;
+}
+.imagee{
+    margin-top: -200px;
+    width:480px;
+    height:200px;
+}
+
+/* Rectangle 1872 */
+.rectangle1872{
+position: absolute;
+width: 480px;
+height: 580px;
+left: 745px;
+top: 1034px;
+
+background: #FDFDFD;
+box-shadow: 1px 1px 4px 2px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+}
+
+/* Rectangle 2322 */
+.rectangle2322{
+position: absolute;
+width: 480px;
+height: 50px;
+left: 745px;
+top: 1035px;
+
+background: #000000;
+border-radius: 15px 15px 0px 0px;
+}
+
+/* 4SA Method */
+.sa{
+position: absolute;
+width: 96px;
+height: 22px;
+left: 937px;
+top: 1049px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+ 
+
+
+
+/* Ellipse 201 */
+.ellipse292{
+position: absolute;
+width: 22px;
+height: 22px;
+left: 1176px;
+top: 1050px;
+border-radius: 50px;
+background: #FFFFFF;
+}
+ 
+/* Description : To Explore more read more */
+.description4{
+position: absolute;
+width: 433px;
+height: 83px;
+left: 768px;
+top: 1132px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+}
+
+/* Rectangle 2324 */
+.rectangle2324{
+position: absolute;
+width: 434px;
+height: 30px;
+left: 768px;
+top: 1186px;
+text-align:justify;
+background: #F2F2F2;
+font-size: 20px;
+}
+
+
+/* Rectangle 2327 */
+.rectangle2327{
+position: absolute;
+width: 434px;
+height: 30px;
+left: 769px;
+top: 1344px;
+font-size: 20px;;
+background: #FCFCFC;
+border: 1px solid #D9D7D7;
+}
+/* Rectangle 2328 */
+.rectangle2328{
+position: absolute;
+width: 394px;
+height: 43px;
+left: 809px;
+top: 1535px;
+
+background: #FCFCFC;
+border: 1px solid #D9D7D7;
+}
+
+.example{
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+/* You have a concept , How will you put into progress? */
+.concept{
+position: absolute;
+width: 394px;
+height: 67px;
+left: 813px;
+top: 1570px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+letter-spacing: 0.02em;
+
+color: #000000;
+}
+
+/* Ellipse 198 */
+.ellipse198{
+position: absolute;
+width: 85px;
+height: 85px;
+left: 1303px;
+top: 1490px;
+border-radius: 50px;
+background: #0029FF;
+}
+/* question-mark (2) 1 */
+.question-mark{
+position: absolute;
+width: 37px;
+height: 40px;
+left: 1327px;
+top: 1512px;
+
+/* background: url(question-mark (2).png); */
+}
+
+/* Ellipse 199 */
+.ellipse199{
+position: absolute;
+width: 85px;
+height: 85px;
+left: 1303px;
+top: 1596px;
+border-radius: 50px;
+background: #0029FF;
+}
+
+/* Ellipse 200 */
+.ellipse200{
+position: absolute;
+width: 85px;
+height: 85px;
+left: 1303px;
+top: 1702px;
+border-radius: 50px;
+background: #0029FF;
+}
+
+/* meeting 1 */
+.meeting{
+position: absolute;
+width: 46px;
+height: 46px;
+left: 1323px;
+top: 1615px;
+
+background: url(meeting.png);
+}
+
+.image1{
+    width:40px;
+    height:40px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
